@@ -3,4 +3,5 @@ A telethon Telegram bot to copy posts from some source channels and forward them
 
 # Usage
 1- pip install telethon
+
 2- Just change the settings and enjoy the bot
